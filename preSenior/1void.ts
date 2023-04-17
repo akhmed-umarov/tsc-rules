@@ -11,3 +11,6 @@ const arrayTest = ['Akhmed', 'Bekha' , 'Mustava'];
 arrayTest.forEach((el ,index , arr)=> arr.push('holla'));           //вот тут внутри forEach возвращается void так как нам без разницы что вернется внутри данных функций
 
 console.log(arrayTest);
+
+
+

@@ -1,0 +1,1 @@
+const arra = [" ads" , 'asd'];
